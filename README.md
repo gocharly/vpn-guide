@@ -72,3 +72,9 @@ curl -4 ifconfig.me
 ```
 
 Либо откройте в браузере `2ip.io` или `browserleaks.com/ip`.
+
+---
+
+<div align="center">
+  <sub>Больше полезных материалов, архитектурных шаблонов и гайдов — в Telegram-канале <a href="https://t.me/gitmash"><b>@gitmash</b></a></sub>
+</div>
