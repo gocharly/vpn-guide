@@ -76,5 +76,5 @@ curl -4 ifconfig.me
 ---
 
 <div align="center">
-  <sub>Больше полезных материалов, архитектурных шаблонов и гайдов — в Telegram-канале <a href="https://t.me/gitmash"><b>@gitmash</b></a></sub>
+  <sub>реализовано by <a href="https://t.me/gitmash"><b>@gitmash</b></a></sub>
 </div>
